@@ -3,7 +3,7 @@
   
     
     <entry>
-      <title><![CDATA[Hexo]]></title>
+      <title><![CDATA[Hexo搭建博客]]></title>
       <url>/2017/10/20/Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
       <content type="html"><![CDATA[<h3 id="原博客搬迁"><a href="#原博客搬迁" class="headerlink" title="原博客搬迁"></a>原博客搬迁</h3><p>原本一直使用<a href="http://blog.csdn.net/cheng624" target="_blank" rel="external">CSDN的博客</a>记录一些自己的东西，但是前段时间登录发现一直需要我真实身份验证，抱着支持国家政策的态度我屈服了… 但是最近，后来为什么又出来一个必须扫描公众号二维码关注再完成手机验证。只想说你推广也就算了为毛还要强制！表示不服！<br>为了专治“不服”，我决定使用万能Github自行搭建博客，考虑了 <a href="http://jekyll.com.cn/" target="_blank" rel="external">Jekyll</a>，看了比人的一堆分析以后最终选择了 <a href="https://hexo.io/zh-cn/docs/index.html" target="_blank" rel="external">Hexo</a>，由于我的web前端只停留在html+css阶段故表示不懂他们底下的大区别，但是使用了以后只觉得 hexo很麻烦… 因为jekyll是github自动生成pages，hexo需要自己genegrate+deploy，我不知道这是不是代表我每次上传都必须有nodejs的环境，也不知道jekyll是不是这样…</p>
 <p>最终，我还是选择了hexo，因为我看用到了 <a href="https://github.com/viosey/hexo-theme-material/" target="_blank" rel="external">Material</a> 的模板0.0</p>
@@ -99,11 +99,11 @@ sidebar:
         
         <tags>
             
+            <tag> hexo </tag>
+            
             <tag> git </tag>
             
             <tag> github </tag>
-            
-            <tag> hexo </tag>
             
         </tags>
         
@@ -4645,11 +4645,11 @@ Shader <span class="token string">"Custom/Transparent"</span> <span class="token
         
         <tags>
             
-            <tag> svn </tag>
-            
             <tag> git </tag>
             
             <tag> github </tag>
+            
+            <tag> svn </tag>
             
         </tags>
         
