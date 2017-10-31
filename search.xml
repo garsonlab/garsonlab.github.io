@@ -99,11 +99,11 @@ sidebar:
         
         <tags>
             
-            <tag> hexo </tag>
-            
             <tag> git </tag>
             
             <tag> github </tag>
+            
+            <tag> hexo </tag>
             
         </tags>
         
@@ -4645,11 +4645,11 @@ Shader <span class="token string">"Custom/Transparent"</span> <span class="token
         
         <tags>
             
+            <tag> svn </tag>
+            
             <tag> git </tag>
             
             <tag> github </tag>
-            
-            <tag> svn </tag>
             
         </tags>
         
